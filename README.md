@@ -3,6 +3,10 @@ Welcome to my GitHub profile!
 
 
 🎓 I’m currently pursuing my B.Tech from IGDTUW, Delhi.
+
+<div>
+    <img src="https://media1.tenor.com/m/NYrgLNGuy7YAAAAd/the-c-programming-language-uncle-dane.gif" alt="Cartoon GIF" width="150" style="margin-right: 10px;"/>
+  </div>
 ## 💻 Skills on Fleek:
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
@@ -15,9 +19,7 @@ Welcome to my GitHub profile!
       <li>📧 You can reach out to me at: <a href="mailto:shrutiinarang@gmail.com">shrutiinarang@gmail.com</a> / <a href="#">others</a></li>
     </ul>
   </div>
-  <div>
-    <img src="https://media1.tenor.com/m/NYrgLNGuy7YAAAAd/the-c-programming-language-uncle-dane.gif" alt="Cartoon GIF" width="150" style="margin-right: 10px;"/>
-  </div>
+  
 </div>
 
     
