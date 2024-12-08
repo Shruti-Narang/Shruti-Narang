@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
   
   <!-- GIF Section -->
   <div>
-    <img src="your-profile.gif" alt="Shruti's Profile GIF" width="200" />
+    <img src="https://media1.tenor.com/m/NYrgLNGuy7YAAAAd/the-c-programming-language-uncle-dane.gif" alt="Shruti's Profile GIF" width="200" />
   </div>
 </div>
 
