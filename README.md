@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
     </ul>
   </div>
   <div>
-    <img src="https://path-to-your-gif.gif" alt="Cartoon GIF" width="150" style="margin-right: 10px;"/>
+    <img src="https://media1.tenor.com/m/NYrgLNGuy7YAAAAd/the-c-programming-language-uncle-dane.gif" alt="Cartoon GIF" width="150" style="margin-right: 10px;"/>
   </div>
 </div>
 
