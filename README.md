@@ -3,10 +3,12 @@ Welcome to my GitHub profile!
 
 
 🎓 I’m currently pursuing my B.Tech from IGDTUW, Delhi.
+<div align="right">
+  <a href="https://your-link.com">
+    <img src="https://media1.tenor.com/m/NYrgLNGuy7YAAAAd/the-c-programming-language-uncle-dane.gif" alt="Animated Cartoon Icon" width="350" height="350"/>
+  </a>
+</div>
 
-<a href="https://your-link.com">
-  <img src="https://media1.tenor.com/m/NYrgLNGuy7YAAAAd/the-c-programming-language-uncle-dane.gif" alt="Animated Cartoon Icon" width="350" height="350"/>
-</a>
 
 
 
