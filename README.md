@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 - 💛 Excited to collaborate on projects that make a meaningful difference.❤
 - 🔭 Currently exploring AI and Machine Learning.
 - 👩‍💻 API whisperer—if it has an endpoint, I’ll make it sing.
-- 💌 You can reach out to me at: 
+- 💌 You can reach out to me at: [shrutiinarang@gmail.com](mailto:shrutiinarang@gmail.com)
 
 <!--
 **Shruti-Narang/Shruti-Narang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
