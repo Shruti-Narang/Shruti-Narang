@@ -5,7 +5,6 @@ Welcome to my GitHub profile!
 🎓 I’m currently pursuing my B.Tech from IGDTUW, Delhi.
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <!-- Skills Section -->
   <div style="flex-grow: 1;">
     <h2>💻 Skills on Fleek:</h2>
     <ul>
@@ -17,13 +16,10 @@ Welcome to my GitHub profile!
       <li>📧 You can reach out to me at: [shrutiinarang@gmail.com](mailto:shrutiinarang@gmail.com)</li>
     </ul>
   </div>
-  
-  <!-- GIF Section -->
-  <div style="width: 200px;">
-    <img src="https://media1.tenor.com/m/NYrgLNGuy7YAAAAd/the-c-programming-language-uncle-dane.gif" alt="Shruti's Profile GIF" width="200" />
+  <div>
+    <img src="https://media1.tenor.com/m/NYrgLNGuy7YAAAAd/the-c-programming-language-uncle-dane.gif" alt="Shruti's Profile GIF" width="200" style="float: right;" />
   </div>
 </div>
-      
 
     
 
