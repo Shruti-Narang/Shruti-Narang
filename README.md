@@ -4,21 +4,18 @@ Welcome to my GitHub profile!
 
 🎓 I’m currently pursuing my B.Tech from IGDTUW, Delhi.
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+## 💻 Skills on Fleek:
+
+<div style="display: flex; align-items: flex-start;">
   <div style="flex-grow: 1;">
-    <h2>💻 Skills on Fleek:</h2>
-    <ul>
-      <li>💡 Diving deep into Web Development and UI/UX.</li>
-      <li>🌐 Fluent in Python, JavaScript, ReactJS and the art of explaining tech to non-techies.</li>
-      <li>💛 Excited to collaborate on projects that make a meaningful difference.</li>
-      <li>🛠️ Currently exploring AI and Machine Learning.</li>
-      <li>⚡ API whisperer—if it has an endpoint, I'll make it sing.</li>
-      <li>📧 You can reach out to me at: [shrutiinarang@gmail.com](mailto:shrutiinarang@gmail.com)</li>
-    </ul>
+    - 💡 Diving deep into Web Development and UI/UX.
+    - 🌐 Fluent in Python, JavaScript, ReactJS and the art of explaining tech to non-techies.
+    - 💛 Excited to collaborate on projects that make a meaningful difference.
+    - 🛠️ Currently exploring AI and Machine Learning.
+    - ⚡ API whisperer—if it has an endpoint, I'll make it sing.
+    - 📧 You can reach out to me at: [shrutiinarang@gmail.com](mailto:shrutiinarang@gmail.com)
   </div>
-  <div>
-    <img src="https://media1.tenor.com/m/NYrgLNGuy7YAAAAd/the-c-programming-language-uncle-dane.gif" alt="Shruti's Profile GIF" width="200" style="float: right;" />
-  </div>
+  <img src="https://media1.tenor.com/m/NYrgLNGuy7YAAAAd/the-c-programming-language-uncle-dane.gif" alt="Shruti's Profile GIF" width="200" style="float: right;" />
 </div>
 
     
