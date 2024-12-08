@@ -1,10 +1,17 @@
-## Heya there 👋 I am Shruti Narang
+## Heya there 👋 I am Shruti Narang!
 Welcome to my GitHub profile!
 
 
 🎓 I’m currently pursuing my B.Tech from IGDTUW, Delhi.
+
+
 # 🔧 Skills on Fleek:
-- 💡 Diving deep into web development and UI/UX.
+- 💡 Diving deep into Web Development and UI/UX.
+- 🌐 Fluent in Python, JavaScript, ReactJs and the art of explaining tech to non-techies.
+- 💛 Excited to collaborate on projects that make a meaningful difference.❤
+- 🔭 Currently exploring AI and Machine Learning.
+- 👩‍💻 API whisperer—if it has an endpoint, I’ll make it sing.
+- 💌 You can reach out to me at: 
 
 <!--
 **Shruti-Narang/Shruti-Narang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
