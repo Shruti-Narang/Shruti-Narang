@@ -1,6 +1,6 @@
 ## Heya there 👋 I am Shruti Narang
-     Welcome to my GitHub profile!
-     🎓 I’m currently pursuing my B.Tech from IGDTUW, Delhi.
+Welcome to my GitHub profile!
+🎓 I’m currently pursuing my B.Tech from IGDTUW, Delhi.
 # 🔧 Skills on Fleek:
 - 💡 Diving deep into web development and UI/UX.
 
