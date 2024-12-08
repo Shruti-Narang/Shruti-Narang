@@ -7,7 +7,9 @@ Welcome to my GitHub profile!
 
 # 🔧 Skills on Fleek:
 
-  <div>
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <!-- Skills Section -->
+  <div style="flex-grow: 1;">
     <ul>
       <li>💡 Diving deep into Web Development and UI/UX.</li>
       <li>🌐 Fluent in Python, JavaScript, ReactJS and the art of explaining tech to non-techies.</li>
@@ -22,6 +24,7 @@ Welcome to my GitHub profile!
     <img src="https://media1.tenor.com/m/NYrgLNGuy7YAAAAd/the-c-programming-language-uncle-dane.gif" alt="Cartoon GIF" width="200" />
   </div>
 </div>
+
 
     
 
