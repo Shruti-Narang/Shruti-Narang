@@ -1,5 +1,8 @@
-## Heya there 👋
-# Welcome to my GitHub profile!
+## Heya there 👋 I am Shruti Narang
+     Welcome to my GitHub profile!
+     🎓 I’m currently pursuing my B.Tech from IGDTUW, Delhi.
+# 🔧 Skills on Fleek:
+- 💡 Diving deep into web development and UI/UX.
 
 <!--
 **Shruti-Narang/Shruti-Narang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
