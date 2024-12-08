@@ -15,7 +15,7 @@ Welcome to my GitHub profile!
 
 <div align="right">
   <a href="https://your-link.com">
-    <img src="https://media1.tenor.com/m/NYrgLNGuy7YAAAAd/the-c-programming-language-uncle-dane.gif" alt="Animated Cartoon Icon" width="350" height="350"/>
+    <img src="https://media1.tenor.com/m/NYrgLNGuy7YAAAAd/the-c-programming-language-uncle-dane.gif" alt="Animated Cartoon Icon" width="250" height="250"/>
   </a>
 </div>
 
