@@ -3,6 +3,7 @@ Welcome to my GitHub profile!
 
 
 🎓 I’m currently pursuing my B.Tech from IGDTUW, Delhi.
+
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <!-- Skills Section -->
   <div style="flex-grow: 1;">
@@ -18,11 +19,10 @@ Welcome to my GitHub profile!
   </div>
   
   <!-- GIF Section -->
-  <div>
+  <div style="width: 200px;">
     <img src="https://media1.tenor.com/m/NYrgLNGuy7YAAAAd/the-c-programming-language-uncle-dane.gif" alt="Shruti's Profile GIF" width="200" />
   </div>
 </div>
-
       
 
     
