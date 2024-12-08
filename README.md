@@ -7,7 +7,9 @@ Welcome to my GitHub profile!
 <div>
     <img src="https://media1.tenor.com/m/NYrgLNGuy7YAAAAd/the-c-programming-language-uncle-dane.gif" alt="Cartoon GIF" width="150" style="margin-right: 10px;"/>
   </div>
+
 ## 💻 Skills on Fleek:
+
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
     <ul>
