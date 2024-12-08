@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 # 🔧 Skills on Fleek:
 - 💡 Diving deep into Web Development and UI/UX.
 - 🌐 Fluent in Python, JavaScript, ReactJs and the art of explaining tech to non-techies.
-- 💛 Excited to collaborate on projects that make a meaningful difference.❤
+- 💛 Excited to collaborate on projects that make a meaningful difference.
 - 🔭 Currently exploring AI and Machine Learning.
 - 👩‍💻 API whisperer—if it has an endpoint, I’ll make it sing.
 - 💌 You can reach out to me at: [shrutiinarang@gmail.com](mailto:shrutiinarang@gmail.com)
